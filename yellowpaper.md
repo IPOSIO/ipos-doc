@@ -10,6 +10,8 @@ plan9 一切皆文件。包括cpu。
 
 plan9 机器之间相互挂载 认证使用多种方式。 [论文](http://doc.cat-v.org/plan_9/4th_edition/papers/auth)
 
+0.彼此发现 
+
 1.认证修改为 eth 认证。
 
 2.使用 ipfs 拓展 9p协议。
