@@ -32,4 +32,8 @@ plan9 机器之间相互挂载 认证使用多种方式。 [论文](http://doc.c
 
 10.用户空间，程序自己策略选择 运行在哪些机器上。
 
-11. Android 底层Linux 修改为 plan9.
+11.Android 底层Linux 修改为 plan9.
+
+12.xWindow 移植
+
+13.移植 到路由器
